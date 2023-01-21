@@ -28,8 +28,6 @@ Admin can also see the purchase history and registered users list.
 <b>Database</b> - MySQL - Hosted on a remote server at [AWS RDS](https://aws.amazon.com/rds/mysql/) <br>
 <b>Application Server</b>  - Java 8 running on 64bit Amazon Linux on AWS Elastic Beanstalk <br>
 
-## Demo
-Application is hosted [here](http://sportyshoesapplication-env.eba-pk5qivsc.ap-south-1.elasticbeanstalk.com/) on AWS Elastic Beanstalk.
 ## Setup
 To run in your localhost - Clone the project into your local directory. Edit the credentials in `application.properties` file such as username, password, Driver Class Name and Connection URL. Then run the project on Apache Tomcat server 9.0.*
 <br><br>
